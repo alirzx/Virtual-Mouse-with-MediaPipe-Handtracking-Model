@@ -3,7 +3,7 @@
 This project implements a **virtual mouse** using hand tracking powered by **MediaPipe**. It allows you to control your computer's mouse cursor using hand gestures captured via a webcam. The system detects your hand landmarks, tracks the index finger and thumb, and simulates mouse movements and clicks.
 
 ---
-![Virtual Mouse Demo](blob/main/mediapipe%20handtracking%20model%20landmarks.png)
+![MediaPipe Hand Tracking Landmarks](https://github.com/alirzx/Virtual-Mouse-with-MediaPipe-Handtracking-Model/raw/main/mediapipe%20handtracking%20model%20landmarks.png)
 
 ## Features
 
