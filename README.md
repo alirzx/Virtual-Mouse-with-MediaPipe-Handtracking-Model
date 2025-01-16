@@ -53,6 +53,7 @@ Save the webcam feed with hand landmarks as a video file.
 
 # Example :
 # Initialize MediaPipe Hands
+```bash
 capture_hands = mp.solutions.hands.Hands()
 
 # Main loop
